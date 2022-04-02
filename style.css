@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 1000px;
+    height: auto;
+}
+
+#header{
+    text-align: center;
+}
+.main-container{
+    width: 800px;
+}
+.alert-primary{
+    text-align: center;
+    margin-left: 250px;
+    width: 400px;
+    height: 50px;
+}
+.input-group{
+    margin-bottom: 10px;
+}
+.input-group-text{
+    margin-bottom: 10px;
+
+}
+
+#hobbies{
+    width: 175px;
+}
+
+#taal{
+    color: rgb(14, 175, 60);
+    background-color: rgb(227, 216, 216);
+}
+#foot{
+    background-color: aqua;
+}
